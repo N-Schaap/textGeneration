@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/N-Schaap/textGeneration/issues"
   },
-  "homepage": "https://github.com/N-Schaap/textGeneration#readme"
+  "homepage": "https://github.com/N-Schaap/textGeneration#readme",
+  "dependencies": {
+    "quill-delta": "^5.1.0"
+  }
 }
