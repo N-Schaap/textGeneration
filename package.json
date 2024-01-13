@@ -1,0 +1,30 @@
+{
+  "name": "quill-delta-generator",
+  "version": "1.0.0",
+  "description": "Can generate a text based on Questions and their Answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-Schaap/textGeneration.git"
+  },
+  "keywords": [
+    "textgenerator",
+    "text",
+    "generator",
+    "generation",
+    "generate",
+    "quill",
+    "delta",
+    "quill-delta",
+    "quill-delta-generator"
+  ],
+  "author": "Nick Schaap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-Schaap/textGeneration/issues"
+  },
+  "homepage": "https://github.com/N-Schaap/textGeneration#readme"
+}
